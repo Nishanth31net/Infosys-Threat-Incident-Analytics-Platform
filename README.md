@@ -1,4 +1,5 @@
-# Threat Classification & Predictive Intelligence Dashboard
+# Infosys-Threat-Incident-Analytics-Platform
+
 
 ## 📌 Project Overview
 
@@ -85,10 +86,10 @@ The project was completed through **four milestones**, progressing from basic in
 ## 📁 Repository Structure
 
 ```text
-Threat-Classification-Predictive/
+Infosys-Threat-Incident-Analytics-Platform/
 │
 ├── Dashboard/
-│   └── Threat-Classification-Predictive.pbix
+│   └── bermuda-triangle-incident-analytics.pbix
 │
 ├── Documentation/
 │   └── Project-Documentation.pdf
