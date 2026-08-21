@@ -108,7 +108,7 @@ Infosys-Threat-Incident-Analytics-Platform/
 
 ## 📄 Project Deliverables
 
-* **Power BI Dashboard** — `Threat-Classification-Predictive.pbix`
+* **Power BI Dashboard** — `bermuda-triangle-incident-analytics.pbix`
 * **Project Documentation** — `Project-Documentation.pdf`
 * **Final Presentation** — `Final-Presentation.pptx`
 
